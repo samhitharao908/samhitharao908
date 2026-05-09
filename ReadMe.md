@@ -1,25 +1,25 @@
 # 👋 Hi, I'm Samhitha
 
 ### **Generative AI Developer | Solution Architect**
-Building high-performance, production-ready AI systems with a focus on agentic orchestration and scalable architectures[cite: 1].
+Building high-performance, production-ready AI systems with a focus on agentic orchestration and scalable architectures.
 
 ---
 
 ## 🏗️ Architectural Expertise
-I specialize in designing the "blueprints" for intelligent systems, moving beyond simple API calls to robust, enterprise-grade frameworks[cite: 1].
+I specialize in designing the "blueprints" for intelligent systems, moving beyond simple API calls to robust, enterprise-grade frameworks.
 
-* **Multi-Agent Orchestration:** Implementing complex "Supervisor-Worker" patterns using **LangGraph** to handle sophisticated task decomposition and execution[cite: 1].
-* **Knowledge Engineering:** Designing Graph-RAG architectures to bridge the gap between unstructured data and structured reasoning[cite: 1].
-* **System Reliability:** Architecting for the "Rule of Three 9s" (99.5% uptime) and high-concurrency environments[cite: 1].
-* **Performance Optimization:** Strategic use of sharding, caching, and **gRPC microservices** to maintain sub-300ms latency in production environments[cite: 1].
+* **Multi-Agent Orchestration:** Implementing complex "Supervisor-Worker" patterns using **LangGraph** to handle sophisticated task decomposition and execution.
+* **Knowledge Engineering:** Designing Graph-RAG architectures to bridge the gap between unstructured data and structured reasoning.
+* **System Reliability:** Architecting for the "Rule of Three 9s" (99.5% uptime) and high-concurrency environments.
+* **Performance Optimization:** Strategic use of sharding, caching, and **gRPC microservices** to maintain sub-300ms latency in production environments.
 
 ## 💻 Engineering & Programming
-I believe in clean, efficient code and a disciplined approach to full-stack AI development[cite: 1].
+I believe in clean, efficient code and a disciplined approach to full-stack AI development.
 
-* **Agentic Frameworks:** Building autonomous workflows with **LangChain** and **LangGraph** for production environments[cite: 1].
-* **AI Frameworks:** Proficient in **Keras**, **TensorFlow**, and **scikit-learn** for building and fine-tuning models[cite: 1].
-* **Cloud & DevOps:** Deploying and managing scalable workloads on **AWS** and **Azure** using **Azure DevOps** for CI/CD pipelines[cite: 1].
-* **Development Philosophy:** Committed to a rigorous daily routine of mastering technical fundamentals—from advanced SQL queries to Python syntax[cite: 1].
+* **Agentic Frameworks:** Building autonomous workflows with **LangChain** and **LangGraph** for production environments.
+* **AI Frameworks:** Proficient in **Keras**, **TensorFlow**, and **scikit-learn** for building and fine-tuning models.
+* **Cloud & DevOps:** Deploying and managing scalable workloads on **AWS** and **Azure** using **Azure DevOps** for CI/CD pipelines.
+* **Development Philosophy:** Committed to a rigorous daily routine of mastering technical fundamentals—from advanced SQL queries to Python syntax.
 
 ---
 
